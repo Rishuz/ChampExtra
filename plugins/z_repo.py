@@ -26,11 +26,11 @@ start_txt = """**
 async def start(_, msg):
     buttons = [
         [ 
-          InlineKeyboardButton("ᴀᴅᴅ ᴍᴇ", url=f"https://t.me/{app.username}?startgroup=true")
+          InlineKeyboardButton("✙ ᴀᴅᴅ ᴍᴇ ʙᴧʙʏ ✙", url=f"https://t.me/{app.username}?startgroup=true")
         ],
         [
-          InlineKeyboardButton("ʀɪsʜᴜ", url="https://t.me/Ur_rishu_143"),
-          InlineKeyboardButton("ʀɪsʜᴜ", url="https://t.me/ur_support07"),
+          InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url="https://t.me/Ur_rishu_143"),
+          InlineKeyboardButton("sᴜᴘᴘᴏꝛᴛ", url="https://t.me/ur_support07"),
           ],
                [
                 InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/rishu1286"),
