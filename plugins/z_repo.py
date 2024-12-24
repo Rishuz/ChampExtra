@@ -9,7 +9,7 @@ from ChampuMusic.utils.database import add_served_chat, get_assistant
 
 
 start_txt = """**
-✪ 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗖𝗵𝗮𝗺𝗽𝘂 𝗥𝗲𝗽𝗼𝘀 ✪
+<blockquote>✪ 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗥𝗶𝘀𝗵𝘂 𝗥𝗲𝗽𝗼𝘀 ✪</blockquote>
 
 ➲ ᴇᴀsʏ ʜᴇʀᴏᴋᴜ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ✰  
 ➲ ɴᴏ ʙᴀɴ ɪssᴜᴇs ✰  
@@ -41,7 +41,7 @@ async def start(_, msg):
               InlineKeyboardButton("sᴛʀɪɴɢ", url=f"https://github.com/RishuBot/RishuStringHack"),
               ],
               [
-              InlineKeyboardButton("ᴍᴀɴᴀɢᴍᴇɴᴛ", url=f"https://github.com/Rishubot/RishuManagment"),
+       
 InlineKeyboardButton("ᴄʜᴀᴛʙᴏᴛ", url=f"https://github.com/RishuBot/RishuChatBot"),
 ]]
     
