@@ -37,7 +37,7 @@ async def start(_, msg):
 
 ],
 [
-              InlineKeyboardButton("ᴍᴜsɪᴄ", url=f"https://github.com/TheChampu/ChampuMusic"),
+              InlineKeyboardButton("ᴍᴜsɪᴄ", url=f"https://github.com/RishuBot/Rishu_Music"),
               InlineKeyboardButton("sᴛʀɪɴɢ", url=f"https://github.com/TheChampu/ChampuString"),
               ],
               [
