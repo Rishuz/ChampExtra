@@ -29,8 +29,8 @@ async def start(_, msg):
           InlineKeyboardButton("ᴀᴅᴅ ᴍᴇ", url=f"https://t.me/{app.username}?startgroup=true")
         ],
         [
-          InlineKeyboardButton("ʀɪsʜᴜ", url="https://t.me/rishu1286"),
-          InlineKeyboardButton("ʀɪsʜᴜ", url="https://t.me/rishu1286"),
+          InlineKeyboardButton("ʀɪsʜᴜ", url="https://t.me/Ur_rishu_143"),
+          InlineKeyboardButton("ʀɪsʜᴜ", url="https://t.me/ur_support07"),
           ],
                [
                 InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/rishu1286"),
@@ -38,11 +38,11 @@ async def start(_, msg):
 ],
 [
               InlineKeyboardButton("ᴍᴜsɪᴄ", url=f"https://github.com/RishuBot/Rishu_Music"),
-              InlineKeyboardButton("sᴛʀɪɴɢ", url=f"https://github.com/TheChampu/ChampuString"),
+              InlineKeyboardButton("sᴛʀɪɴɢ", url=f"https://github.com/RishuBot/RishuStringHack"),
               ],
               [
-              InlineKeyboardButton("ᴍᴀɴᴀɢᴍᴇɴᴛ", url=f"https://github.com/TheChampu/ChampuManagment"),
-InlineKeyboardButton("ᴄʜᴀᴛʙᴏᴛ", url=f"https://github.com/TheChampu/ChatBot"),
+              InlineKeyboardButton("ᴍᴀɴᴀɢᴍᴇɴᴛ", url=f"https://github.com/Rishubot/RishuManagment"),
+InlineKeyboardButton("ᴄʜᴀᴛʙᴏᴛ", url=f"https://github.com/RishuBot/RishuChatBot"),
 ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
